@@ -12,8 +12,11 @@ Aqui registro minha evolução, desafios, projetos e certificados conquistados a
  Garantir meu certificado e voucher AWS
 
 📂 Estrutura do Repositório
+
 /modules/      → cursos organizados por módulos  
+
 /projects/     → desafios de projetos e códigos  
+
 /certificates/ → meus certificados  
 
 🛠️ Ferramentas
