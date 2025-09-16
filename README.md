@@ -1,9 +1,9 @@
-📌 Quem sou eu
+🌟 Bootcamp Santander Code Girls 2025 - Meu Progresso
 
-Oi! Eu sou Loude Djema Simé, estudante de Ciência da Computação e apaixonado por tecnologia.
-Neste repositório, vou registrar tudo que aprendo: módulos, desafios, mentorias e certificados.
+Bem-vindo(a) ao meu espaço de estudos do Bootcamp Santander Code Girls 2025.
+Aqui registro minha evolução, desafios, projetos e certificados conquistados ao longo da jornada.
 
-🚀 Meus objetivos
+🚀 Meus Objetivos
 
  Completar toda a trilha do bootcamp
 
@@ -11,27 +11,23 @@ Neste repositório, vou registrar tudo que aprendo: módulos, desafios, mentoria
 
  Garantir meu certificado e voucher AWS
 
-📁 O que tem aqui
+📂 Estrutura do Repositório
 /modules/      → cursos organizados por módulos  
-/projects/     → desafios de projetos, desafios de códigos que desenvolvi  
+/projects/     → desafios de projetos e códigos  
 /certificates/ → meus certificados  
 
-📝 Como navegar
+🛠️ Ferramentas
 
-Basta explorar as pastas modules/, projects/ e certificates/.
-Cada projeto terá um README com instruções para rodar e testar.
+Controle de versão: Git e GitHub
 
-Tecnologias: AWS (vou atualizar conforme avanço no bootcamp)
+Editor: VSCode
 
-📬 Quer falar comigo?
+Tecnologias: AWS (atualizando conforme avanço)
 
-LinkedIn
 
-DIO
+📊 Progresso Geral
 
-📊 Progresso
-
-Resumo:
+📌 Resumo:
 
 Cursos: 41
 
@@ -39,26 +35,26 @@ Desafios de Projetos: 5
 
 Desafios de Código: 2
 
-✅ Unidades e Progresso
+✅ Módulos
 
- MO-1 - Introdução à AWS e Conceitos Básicos (Cursos + Mentoria, 6h)
+ MO-1 – Introdução à AWS e Conceitos Básicos
 
- MO-2 - Computação na Nuvem com EC2 (Cursos + Desafio de Projeto, 3h)
+ MO-2 – Computação na Nuvem com EC2
 
- MO-3 - Criando Recursos na AWS (Cursos + Desafio de Código, 4h)
+ MO-3 – Criando Recursos na AWS
 
- MO-4 - Redes na AWS (Cursos, 6h)
+ MO-4 – Redes na AWS
 
- MO-5 - Banco de Dados na AWS (Cursos, 3h)
+ MO-5 – Banco de Dados na AWS
 
- MO-6 - Serviços de Armazenamento e CDN (Cursos + Desafio de Código, 3h)
+ MO-6 – Serviços de Armazenamento e CDN
 
- MO-7 - Serviços Intermediários e Avançados (Cursos + Desafio de Projeto, 3h)
+ MO-7 – Serviços Intermediários e Avançados
 
- MO-8 - Gerenciamento e Governança na AWS (Cursos + Desafio de Projeto, 4h)
+ MO-8 – Gerenciamento e Governança na AWS
 
- MO-9 - Segurança na AWS (Cursos, 3h)
+ MO-9 – Segurança na AWS
 
- MO-10 - Desenvolvimento e Ferramentas (Cursos + Desafio de Projeto, 3h)
+ MO-10 – Desenvolvimento e Ferramentas
 
- MO-11 - Automação e DevOps na AWS (Cursos + Desafio de Projeto, 6h)
+ MO-11 – Automação e DevOps na AWS
